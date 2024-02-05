@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "402410332968",
+    "project_id": "flutterlogin-71692",
+    "storage_bucket": "flutterlogin-71692.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402410332968:android:bff58bbde2f407205ee61d",
+        "android_client_info": {
+          "package_name": "com.example.flutterfiraba"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx_VetNt4WKdOZCBMsDM0cJ8wg3oc3-go"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
